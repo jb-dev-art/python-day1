@@ -1,7 +1,7 @@
 name = input("What is your cat's name? ")
 age = int(input("How old is your cat? "))
 
-print(f"Hello {name}")
+print(f"Hello, owner of {name}")
 
 if age < 5:
     print("Your cat is under 5 years old.")
