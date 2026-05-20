@@ -16,3 +16,8 @@ dream_jobs = "Artist, AI developer"
 print(cat's_name)
 print(favorite_food)
 print(dream_jobs)
+favorite_game = "Crinkly ball"
+favorite_animal = "people"
+
+print(cat's_favorite_game)
+print(cat's_favorite_animal)
