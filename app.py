@@ -9,10 +9,10 @@ else:
     print("Your cat is over 5 years old.")
 
 print(f"Next year your cat will be {age + 1}")
-name = "Luna"
+cat's_name = "Luna"
 favorite_food = "coffee"
 dream_jobs = "Artist, AI developer"
 
-print(name)
+print(cat's_name)
 print(favorite_food)
 print(dream_jobs)
